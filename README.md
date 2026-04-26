@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hello, world 🌍
 
-<!--
-**Nora-nice614/Nora-nice614** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Nora-nice614**, a startup founder.
 
-Here are some ideas to get you started:
+## About
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 Always learning new things
+- 🚀 Performance matters
+- 🔭 Currently working on personal side projects
+- 🎯 Goal: ship something useful every week
+
+## Tech
+
+`SQLite` `Terraform` `Vim`
+
+---
+
+_Dog person._
